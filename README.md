@@ -327,5 +327,4 @@ docker compose -f .docs/docker-compose.yml ps
     # hoặc: npm run dev
     ```
     *Giao diện Web sẽ chạy tại địa chỉ:* [http://localhost:3000](http://localhost:3000)
-#   H A C K A T H O N 2 0 2 6  
- 
+#
