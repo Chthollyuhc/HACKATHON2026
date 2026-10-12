@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain-core
+langchain-openai
+langchain-google-genai
+langchain-ollama
+langgraph
+langgraph-checkpoint
+python-dotenv
+pandas
+xgboost
+scikit-learn
+google-genai
